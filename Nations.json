@@ -1,0 +1,28 @@
+[
+ {"name": Storia
+ "leadername": "Dr.Leo"
+ "adjective": ["Storiaheroes"]
+ "startBias": ["Plains"]
+  "preferredVictoryType": "Scientific"
+
+"startIntroPart1": "Hello, parasites! I am Dr.Leo, I went down from the airship there to prove how well you will develop a Storia."
+"startIntroPart2": "See you won't regret!"
+"declaringWar": "What? I will destroy you, bastard!"
+"attacked": "There you are, parasites!"
+"defeated": "No! Not that, you can't stop me!"
+"introduction": "Hello!  Have a nice day, citizen of Storia."
+"neutralHello": "Hello, my Storia friend!"
+"hateHello": "Get out of here, friend!  You are a natural parasite!"
+"tradeRequest": "Please agree to my exchange. I will be very pleased!"
+
+"outerColor": [255, 92, 82]
+"innerColor": [66, 176, 255]
+"uniqueName": "The Heart of the Storia"
+"uniqueText": "If Doctor Leo stops his atrocities, then Storia Town will be saved - Super Zach"
+"uniques": [+60]% Culture cost of adopting new Policies"]
+},
+  {"name": "Bread-o-town"
+   "leadername": "Choco"
+   "adjective": "Breadheroes"
+   "startBias": ["Plains"]
+"startIntroPart1": "The Spirit of the Bread Barbershop is calling! 
